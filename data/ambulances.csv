@@ -1,0 +1,4 @@
+ambulanceId,model,manufacturer,vrn,idle?,headedTowards(ifNotIdle),driverID(ifNotIdle)
+1,TATA X9,TATA,MH02JK3012,Y,NA,NA
+2,Nio es6,Nio,A266A,Y,NA,NA
+3,Nio es5,Nio,A2447,N,`````,-272727271
